@@ -11,7 +11,7 @@
 </div>
 
 
-## Our Vision
+## Our Vision (TODO)
 
 Companies like OpenAI built "Super AI" that threatens human independence. We crave individuality: AI that amplifies, not erases, you.
 
